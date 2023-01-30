@@ -1,0 +1,15 @@
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\bin\Debug\CoinRed.png
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\bin\Debug\CoinYellow.png
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\bin\Debug\Ex05_Othelo.exe
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\bin\Debug\Ex05_Othelo.pdb
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\bin\Debug\Logic.dll
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\bin\Debug\Logic.pdb
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\obj\Debug\Othelo_UI.csproj.AssemblyReference.cache
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\obj\Debug\Othelo_UI.GameSettingsWindow.resources
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\obj\Debug\Othelo_UI.GameWindow.resources
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\obj\Debug\Ex05_Othelo.Properties.Resources.resources
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\obj\Debug\Othelo_UI.csproj.GenerateResource.cache
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\obj\Debug\Othelo_UI.csproj.CoreCompileInputs.cache
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\obj\Debug\Othelo_UI.csproj.CopyComplete
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\obj\Debug\Ex05_Othelo.exe
+C:\Users\Tzach\Desktop\Computer Science\Dot Net C#\For Github\Othello Windows Application\Ex05_Othelo\obj\Debug\Ex05_Othelo.pdb
